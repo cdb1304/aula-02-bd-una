@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/cdb1304/aula-02-bd-una/issues"
   },
-  "homepage": "https://github.com/cdb1304/aula-02-bd-una#readme"
+  "homepage": "https://github.com/cdb1304/aula-02-bd-una#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mysql2": "^3.23.3"
+    }
 }
